@@ -4,7 +4,7 @@
 
 ## 🌐 線上瀏覽
 
-> 部署後將網址填入此處，例如：`https://你的帳號.github.io/你的repo名稱/`
+> URL ： https://lien6108.github.io/FinOpsGCP
 
 ## 📋 涵蓋服務
 
